@@ -345,11 +345,10 @@ main {
         display: flex;
         flex-direction: row;
         padding: 25px;
-}
-
- /*   #benefits2> div {
-        flex: 1;
     }
 
+ /*   #benefits > div {
+        flex: 1;
+    }
 */
 }
