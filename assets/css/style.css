@@ -109,7 +109,7 @@ main {
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent*/
-    background-color: rgba(222, 72, 26, 0.7);
+    background-color: rgba(180, 60, 23, 0.7);
     font-size: 130%;
     position: absolute;
     bottom: 0px;
@@ -152,7 +152,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url("../images/reasons-image.webp") no-repeat top center / cover;
+    background: url("../images/image-benefits.jpg") no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
