@@ -6,7 +6,7 @@
 
 ## Project Planning
 
-UX Design
+### UX Design
 
 User Stories
 - As a First-Time Visitor, I need a responsive navigation bar, so I can find information quickly and efficiently without frustration.
@@ -21,16 +21,16 @@ As a First-Time Visitor, I need a user-friendly section to add my user details, 
 
 ## Wireframes
 
-Home page
+### Home page
 
 ![Home page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Home%20page.png)
 
 
-Gallery page
+### Gallery page
 
 ![Gallery page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Gallery%20page.png)
 
-Sign up page
+### Sign up page
 
 ![Sign up page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Sign%20up%20page.png)
 
@@ -53,14 +53,6 @@ This section will allow the user to easily navigate from page to page across all
 
 ![Navigation and Hero image](/documentation/images/features/Navigation%20and%20Hero%20Section.png)
 
-
-The landing page image
-
-The landing page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to the All Dublin Camera Club with an eye catching animation to grab their attention
-
-Landing Page
-
 ### Benefits Section
 
 The Benefits section will allow the user to see the benefits of joining the All Dublin Camera Club meetups, as well as the benefits of photography overall.
@@ -68,37 +60,39 @@ This user will see the value of signing up for the All Dublin Camera Club meetup
 
 ![Benefits section](/documentation/images/features/Benefits%20Section.png)
 
-### Meetup Times section
+### Meetup Times Section
 
 This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the photography session duration will be.
 This section will be updated as these times change to keep the user up to date.
 
 ![Meetup Times section](/documentation/images/features/Meetup%20Times%20Section.png)
 
-The Footer
+### The Footer
 
 The footer section includes links to the relevant social media sites for All Dublin Camera Club. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](/documentation/images/features/Footer.png)
 
-Gallery
+### The Gallery page
 
 The gallery will provide the user with supporting images to see what resulting photographs from the meet ups look like.
 This section is valuable to the user as they will be able to easily identify the types of photography outing events the organisation puts together.
 
 ![Gallery](/documentation/images/features/Gallery.png)
 
-The Sign Up Page
-
+### The Sign Up Page
+      
 This page will allow the user to get signed up to All Dublin Camera Club to start their photography journey with the community. The user will be able specify if they would like to take part in Beginner, Intermediate or Advanced levels of photography. The user will be asked to submit their full name and email address.
 
-![Sign Up Page](/documentation/images/features/Sign%20up%20page.png.png)
+![Sign Up Page](/documentation/images/features/Sign%20up%20page.png)
 
-Testing
+## Testing
+
 The site was manually tested on a variety of devices and screen sizes to ensure features work as expected in order to provide an easy and straightforward way for the users to achieve their goals.
 
-Validator Testing
+### Validator Testing
+
 HTML
 No errors were returned when passing through the official W3C validator
 
@@ -113,7 +107,7 @@ No errors were found when passing through the official validator
 
 ![CSS Validation](/documentation/images/validation/CSS%20Validator.png)
 
-Deployment
+## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
@@ -121,13 +115,16 @@ From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - https://dee-des.github.io/all-dublin-camera-club/
 
-Credits
+## Credits
 
 Extra code was taken from the repository and tutorials on Love Running.
 
-Content
+### Content
+
 The text for the Benefits section was taken from a Google search on the benefits of photography.
 Instructions on how to implement form validation on the Sign Up page was taken from Love Running Tutorials
 The icons in the footer were taken from Font Awesome
-Media
+
+### Media
+
 The photos used on the home, gallery and sign up pages are from pexel.com Open Source site.
