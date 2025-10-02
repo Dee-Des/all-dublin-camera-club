@@ -93,31 +93,27 @@ The Sign Up Page
 
 This page will allow the user to get signed up to All Dublin Camera Club to start their photography journey with the community. The user will be able specify if they would like to take part in Beginner, Intermediate or Advanced levels of photography. The user will be asked to submit their full name and email address.
 
-![Sign Up Page](/documentation/images//features/Sign%20up%20page.png.png)
+![Sign Up Page](/documentation/images/features/Sign%20up%20page.png.png)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The site was manually tested on a variety of devices and screen sizes to ensure features work as expected in order to provide an easy and straightforward way for the users to achieve their goals.
 
 Validator Testing
 HTML
 No errors were returned when passing through the official W3C validator
+
+![HTML Validation - Home Page](/documentation/images/validation/HTML%20Validator%20-%20Home%20page.png)
+
+![HTML Validation - Gallery Page](/documentation/images/validation/HTML%20Validator%20-%20Gallery%20page.png)
+
+![HTML Validation - Sign Up Page](/documentation/images/validation/HTML%20Validator%20-%20Sign%20up%20page.png)
+
 CSS
-No errors were found when passing through the official (Jigsaw) validator
-Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
+No errors were found when passing through the official validator
+
+![CSS Validation](/documentation/images/validation/CSS%20Validator.png)
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
@@ -126,32 +122,12 @@ Once the master branch has been selected, the page will be automatically refresh
 The live link can be found here - https://dee-des.github.io/all-dublin-camera-club/
 
 Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
-You can break the credits section up into Content and Media, depending on what you have included in your project.
+Extra code was taken from the repository and tutorials on Love Running.
 
 Content
-The text for the Home page was taken from Wikipedia Article A
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
+The text for the Benefits section was taken from a Google search on the benefits of photography.
+Instructions on how to implement form validation on the Sign Up page was taken from Love Running Tutorials
 The icons in the footer were taken from Font Awesome
 Media
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
-
+The photos used on the home, gallery and sign up pages are from pexel.com Open Source site.
