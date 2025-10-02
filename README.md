@@ -1,6 +1,6 @@
-Camera Club
+All Dublin Camera Club
 
-Camera Club is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the camera club club.
+All Dublin Camera Club is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. All Dublin Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the All Dublin Camera Club.
 
 Responsice Mockup
 
@@ -17,13 +17,13 @@ Nav Bar
 The landing page image
 
 The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Camera Club with an eye catching animation to grab their attention
+This section introduces the user to the All Dublin Camera Club with an eye catching animation to grab their attention
 Landing Page
 
 Why Join Us Section
 
-The Why Join Us section will allow the user to see the benefits of joining the Camera Club meetups, as well as the benefits of photography overall.
-This user will see the value of signing up for the Camera Club meetups. This should encourage the user to consider photography as their forms of socialising.
+The Why Join Us section will allow the user to see the benefits of joining the All Dublin Camera Club meetups, as well as the benefits of photography overall.
+This user will see the value of signing up for the All Dublin Camera Club meetups. This should encourage the user to consider photography as their forms of socialising.
 Join Us
 
 Meetup Times section
@@ -34,7 +34,7 @@ Meetup Times
 
 The Footer
 
-The footer section includes links to the relevant social media sites for Camera Club. The links will open to a new tab to allow easy navigation for the user.
+The footer section includes links to the relevant social media sites for All Dublin Camera Club. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 Footer
 
@@ -46,7 +46,7 @@ Gallery
 
 The Sign Up Page
 
-This page will allow the user to get signed up to Camera Club to start their photography journey with the community. The user will be able specify if they would like to take part in Beginner, Intermediate or Advanced levels of photography. The user will be asked to submit their full name and email address.
+This page will allow the user to get signed up to All Dublin Camera Club to start their photography journey with the community. The user will be able specify if they would like to take part in Beginner, Intermediate or Advanced levels of photography. The user will be asked to submit their full name and email address.
 Sign Up
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
