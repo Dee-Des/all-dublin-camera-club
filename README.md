@@ -1,32 +1,69 @@
-All Dublin Camera Club
+# All Dublin Camera Club
 
-All Dublin Camera Club is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. All Dublin Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the All Dublin Camera Club.
+## Introduction
 
-Responsice Mockup
+"All Dublin Camera Club" is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. All Dublin Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the camera club.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+## Project Planning
 
-Existing Features
-Navigation Bar
+UX Design
 
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+User Stories
+- As a First-Time Visitor, I need a responsive navigation bar, so I can find information quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a Benefits section, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a Meetup Times section, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a Social Media icons section, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a Gallery section, including a responsive layout for my device, so I can find sample photos from previous sessions quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a user-friendly section to add my user details, including a responsive layout for my device, so I can provide my details to the Camera Club quickly and efficiently without frustration.
+- 
+As a First-Time Visitor, I need a user-friendly section to add my user details, including a responsive layout for my device, so I can provide my Photography experience level details to the Camera Club quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a user-friendly 'Sign Me Up!' button to submit my user details, including a responsive layout for my device, so I can submit my user details to the Camera Club quickly and efficiently without frustration.
+
+## Wireframes
+
+Home page
+
+![Home page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Home%20page.png)
+
+
+Gallery page
+
+
+Sign up page
+
+
+
+## Imagery 
+
+I wanted the hero image to be self-explanatory. Therefore I opted for a royalty free photo.
+
+
+# Responsive Mockup
+
+## General Features
+
+### Navigation and Hero Section
+
+I decided to make a self-explanatory hero setion using a royalty free photo which clearly conveys the purpose of the camera club.
+
+Featured on all three pages, the fully responsive navigation bar includes links to the Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-Nav Bar
+
 
 The landing page image
 
 The landing page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 This section introduces the user to the All Dublin Camera Club with an eye catching animation to grab their attention
+
 Landing Page
 
-Benefits Section
+### Benefits Section
 
 The Benefits section will allow the user to see the benefits of joining the All Dublin Camera Club meetups, as well as the benefits of photography overall.
 This user will see the value of signing up for the All Dublin Camera Club meetups. This should encourage the user to consider photography as one of their forms of socialising.
 Benefits
 
-Meetup Times section
+### Meetup Times section
 
 This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the photography session duration will be.
 This section will be updated as these times change to keep the user up to date.
@@ -49,7 +86,6 @@ The Sign Up Page
 This page will allow the user to get signed up to All Dublin Camera Club to start their photography journey with the community. The user will be able specify if they would like to take part in Beginner, Intermediate or Advanced levels of photography. The user will be asked to submit their full name and email address.
 Sign Up
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
@@ -79,7 +115,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+The live link can be found here - https://dee-des.github.io/all-dublin-camera-club/
 
 Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
