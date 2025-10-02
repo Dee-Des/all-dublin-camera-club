@@ -103,7 +103,7 @@ main {
 #hero {
     height: 400px;
     width: 100%;
-    background: url("../images/hero-image-person-holding-camera.jpg") no-repeat center center/cover;
+    background: url("../Images/hero-image-person-holding-camera.jpg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -155,7 +155,7 @@ main {
 
 /* Meetup Times section */
 #times {
-    background: url("../images/image-dublin-city.jpg") no-repeat center/cover;
+    background: url("../Images/image-dublin-city.jpg") no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
@@ -191,7 +191,7 @@ main {
 
 /* Form */
 #signup {
-    background-image: url("../images/image-signup-image.jpg");
+    background-image: url("../Images/image-signup-image.jpg");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
