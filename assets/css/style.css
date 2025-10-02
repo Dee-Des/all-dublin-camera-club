@@ -115,7 +115,8 @@ main {
     bottom: 0px;
     width: 80%;
     min-height: 80px;
-    padding-top: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     padding-left: 10px;
 }
 
@@ -310,7 +311,7 @@ main {
 
     /* Hero */
     #cover-text {
-        width: 300px;
+        width: 400px;
         right: 50px;
     }
 
@@ -381,21 +382,5 @@ main {
 
     #benefits > div {
         flex: 1;
-    }
-
-    #benefits-image {
-        order: 0;
-    }
-
-    #benefits-mental {
-        order: 1;
-    }
-
-    #benefits-mental > div {
-        align-self: flex-start;
-    }
-
-    #benefits-physical > div {
-        align-self: flex-end;
     }
 }
