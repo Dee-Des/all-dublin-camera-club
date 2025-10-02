@@ -16,15 +16,15 @@ Nav Bar
 
 The landing page image
 
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
+The landing page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
 This section introduces the user to the All Dublin Camera Club with an eye catching animation to grab their attention
 Landing Page
 
-Why Join Us Section
+Benefits Section
 
-The Why Join Us section will allow the user to see the benefits of joining the All Dublin Camera Club meetups, as well as the benefits of photography overall.
-This user will see the value of signing up for the All Dublin Camera Club meetups. This should encourage the user to consider photography as their forms of socialising.
-Join Us
+The Benefits section will allow the user to see the benefits of joining the All Dublin Camera Club meetups, as well as the benefits of photography overall.
+This user will see the value of signing up for the All Dublin Camera Club meetups. This should encourage the user to consider photography as one of their forms of socialising.
+Benefits
 
 Meetup Times section
 
