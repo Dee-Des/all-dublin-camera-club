@@ -32,7 +32,7 @@ Gallery page
 
 Sign up page
 
-![Sign up page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Sign%20up%20page.png.png)
+![Sign up page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Sign%20up%20page.png)
 
 
 ## Imagery 
