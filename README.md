@@ -28,9 +28,11 @@ Home page
 
 Gallery page
 
+![Gallery page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Gallery%20page.png)
 
 Sign up page
 
+![Sign up page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Sign%20up%20page.png.png)
 
 
 ## Imagery 
