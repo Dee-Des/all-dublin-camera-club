@@ -15,8 +15,7 @@ User Stories
 - As a First-Time Visitor, I need a Social Media icons section, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
 - As a First-Time Visitor, I need a Gallery section, including a responsive layout for my device, so I can find sample photos from previous sessions quickly and efficiently without frustration.
 - As a First-Time Visitor, I need a user-friendly section to add my user details, including a responsive layout for my device, so I can provide my details to the Camera Club quickly and efficiently without frustration.
-- 
-As a First-Time Visitor, I need a user-friendly section to add my user details, including a responsive layout for my device, so I can provide my Photography experience level details to the Camera Club quickly and efficiently without frustration.
+- As a First-Time Visitor, I need a user-friendly section to add my user details, including a responsive layout for my device, so I can provide my Photography experience level details to the Camera Club quickly and efficiently without frustration.
 - As a First-Time Visitor, I need a user-friendly 'Sign Me Up!' button to submit my user details, including a responsive layout for my device, so I can submit my user details to the Camera Club quickly and efficiently without frustration.
 
 ## Wireframes
