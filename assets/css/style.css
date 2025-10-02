@@ -3,7 +3,7 @@
 
 /* Asterisk wildcard selector to override default styles added by the browser */
 * {
-    padding: 0;
+    padding: 30;
     margin: 0;
     box-sizing: border-box;
 }
@@ -101,7 +101,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 400px;
     width: 100%;
     background: url("../images/hero-image-person-holding-camera.jpg") no-repeat center center/cover;
     position: relative;
@@ -125,22 +125,16 @@ main {
     color: #ffffff;
 }
 
-/* Reasons section */
-#reasons {
+/* Benefits section */
+#benefits {
     width: 90%;
     margin: 20px auto;
 }
 
-#reasons h2 {
+#benfits h2 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 280%;
-}
-
-#benefits-physical > div,
-#benefits-mental > div {
-    line-height: 20px;
-    margin-bottom: 20px;
 }
 
 #benefits p {
@@ -315,24 +309,6 @@ main {
         right: 50px;
     }
 
-    /* Reasons section */
-    #benefits-physical,
-    #benefits-mental {
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-    }
-
-    #benefits-physical > div,
-    #benefits-mental > div {
-        width: 75%;
-    }
-
-    #benefits-mental > div {
-        text-align: end;
-        align-self: flex-end;
-    }
-
     /* Gallery */
     #photos {
         column-count: 3;
@@ -374,7 +350,7 @@ main {
 }
 
 @media screen and (min-width: 1200px) {
-    /* Reasons section */
+    /* Benefits section */
     #benefits {
         display: flex;
         flex-direction: row;
