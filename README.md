@@ -4,6 +4,28 @@
 
 "All Dublin Camera Club" is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. All Dublin Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the camera club.
 
+<h2 align="center" id="TOC">Table of Contents</h2>
+
+* [All Dublin Camera Club](#all-dublin-camera-club)
+  - [Introduction](#introduction)
+* [Project Planning](#project-planning)
+  - [UX Design](#ux-design)
+    - [User Stories](#user-stories)
+    - [Wireframes](#wireframes)
+* [Features](#features)
+  - [General Features](#general-features)
+    - [Navigation and Hero Section](#navigation-and-hero-section)
+    - [Benefits Section](#benefits-section)
+    - [Meetup Times Section](#meetup-times-section)
+    - [Footer](#the-footer)
+    - [Gallery Page](#the-gallery-page)
+    - [Sign up Page](the-sign-up-page)
+* [Development](#deployment)
+* [Testing](#testing)
+* [Credits](#credits)
+  - [Content](#content)
+  - [Media](#media)
+ 
 ## Project Planning
 
 ### UX Design
@@ -31,12 +53,6 @@ User Stories
 ### Sign up page
 
 ![Sign up page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Sign%20up%20page.png)
-
-
-## Imagery 
-
-I wanted the hero image to be self-explanatory. Therefore I opted for a royalty free photo.
-
 
 # Responsive Mockup
 
@@ -85,6 +101,14 @@ This page will allow the user to get signed up to All Dublin Camera Club to star
 
 ![Sign Up Page](/documentation/images/features/Sign%20up%20page.png)
 
+# Deployment
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+The live link can be found here - https://dee-des.github.io/all-dublin-camera-club/
+
 # Testing
 
 The site was manually tested on a variety of devices and screen sizes to ensure features work as expected in order to provide an easy and straightforward way for the users to achieve their goals.
@@ -116,15 +140,6 @@ A Lighthouse audit was conducted using the tool on Chrome Devtools of each web p
 ![Lighthouse Report - Gallery page](/documentation/images/validation/Lighthouse%20Report%20-%20Gallery%20page.png)
 
 ![Lighthouse Report - Sign up page](/documentation/images/validation/Lighthouse%20Report%20-%20Sign%20up%20page.png)
-
-
-## Deployment
-
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://dee-des.github.io/all-dublin-camera-club/
 
 ## Credits
 
