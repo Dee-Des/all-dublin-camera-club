@@ -24,7 +24,6 @@ User Stories
 
 ![Home page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Home%20page.png)
 
-
 ### Gallery page
 
 ![Gallery page wireframes for Mobile, iPad and Desktop](/documentation/images/wireframes/Gallery%20page.png)
@@ -86,13 +85,14 @@ This page will allow the user to get signed up to All Dublin Camera Club to star
 
 ![Sign Up Page](/documentation/images/features/Sign%20up%20page.png)
 
-## Testing
+# Testing
 
 The site was manually tested on a variety of devices and screen sizes to ensure features work as expected in order to provide an easy and straightforward way for the users to achieve their goals.
 
-### Validator Testing
+## Validator Testing
 
-HTML
+### HTML
+
 No errors were returned when passing through the official W3C validator
 
 ![HTML Validation - Home Page](/documentation/images/validation/HTML%20Validator%20-%20Home%20page.png)
@@ -101,10 +101,22 @@ No errors were returned when passing through the official W3C validator
 
 ![HTML Validation - Sign Up Page](/documentation/images/validation/HTML%20Validator%20-%20Sign%20up%20page.png)
 
-CSS
+### CSS
+
 No errors were found when passing through the official validator
 
 ![CSS Validation](/documentation/images/validation/CSS%20Validator.png)
+
+### Lighthouse
+
+A Lighthouse audit was conducted using the tool on Chrome Devtools of each web page.
+
+![Lighthouse Report - Home page](/documentation/images/validation/Lighthouse%20Report%20-%20Home%20page.png)
+
+![Lighthouse Report - Gallery page](/documentation/images/validation/Lighthouse%20Report%20-%20Gallery%20page.png)
+
+![Lighthouse Report - Sign up page](/documentation/images/validation/Lighthouse%20Report%20-%20Sign%20up%20page.png)
+
 
 ## Deployment
 
