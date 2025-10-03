@@ -4,11 +4,11 @@
 
 "All Dublin Camera Club" is a site that hopes to help motivate people to meet up for photography on a regular basis in Dublin, Ireland. The site will be targeted toward photographers and photography enthusiasts who are looking for a way to socialise and enjoy photography at the same time. All Dublin Camera Club will be useful for photographers and photography enthusiasts to see when and where they should be able to join the camera club.
 
-### Key Objectives
+## Key Objectives
 
 - Design and implement an interactive front-end web application using HTML and CSS based on user experience design principles, accessibility, and responsiveness.
-- Test and validate the web application through the development, implementation, and deployment stages.
-- Deploy the one-page web application to a cloud platform.
+- Test and validate the web application through the development and deployment stages.
+- Deploy the web application on GitHub Pages.
 
 # Table of Contents
 
